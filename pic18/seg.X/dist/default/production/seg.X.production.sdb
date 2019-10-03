@@ -1,0 +1,48 @@
+[p LITE_MODE AUTOSTATIC LFSROK EMI_WORD ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 18F4520 ]
+[d frameptr 4065 ]
+"62 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\float.c
+[v ___ftpack __ftpack `(f  1 e 3 0 ]
+"86 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\ftadd.c
+[v ___ftadd __ftadd `(f  1 e 3 0 ]
+"54 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\ftdiv.c
+[v ___ftdiv __ftdiv `(f  1 e 3 0 ]
+"62 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\ftmul.c
+[v ___ftmul __ftmul `(f  1 e 3 0 ]
+"20 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\ftsub.c
+[v ___ftsub __ftsub `(f  1 e 3 0 ]
+"10 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 3 0 ]
+"245
+[v ___flsub __flsub `(d  1 e 3 0 ]
+"11 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\sprcdiv.c
+[v ___fldiv __fldiv `(d  1 e 3 0 ]
+"8 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\sprcmul.c
+[v ___flmul __flmul `(d  1 e 3 0 ]
+"15 C:\Program Files (x86)\Microchip\xc8\v1.45\sources\common\Umul32.c
+[v ___lmul __lmul `(ul  1 e 4 0 ]
+"3 C:\Users\Saikrish\Desktop\mariya\seg.X\segy.c
+[v _main main `(v  1 e 1 0 ]
+"269 C:\Program Files (x86)\Microchip\xc8\v1.45\include\pic18f4520.h
+[v _PORTB PORTB `VEuc  1 e 1 @3969 ]
+"448
+[v _PORTC PORTC `VEuc  1 e 1 @3970 ]
+"1697
+[v _TRISB TRISB `VEuc  1 e 1 @3987 ]
+"1919
+[v _TRISC TRISC `VEuc  1 e 1 @3988 ]
+"7727
+[v _RB0 RB0 `VEb  1 e 0 @31752 ]
+"3 C:\Users\Saikrish\Desktop\mariya\seg.X\segy.c
+[v _main main `(v  1 e 1 0 ]
+{
+"11
+[v main@arr arr `[10]i  1 a 20 0 ]
+"9
+[v main@i i `i  1 a 2 22 ]
+[v main@j j `i  1 a 2 20 ]
+[v main@F3007 F3007 `[10]i  1 s 20 F3007 ]
+"26
+} 0
